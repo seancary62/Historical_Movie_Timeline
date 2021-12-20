@@ -1,7 +1,9 @@
 Topic/Keyword,Start Date,End Date,,Loc,Desc,Key Type,Source
 Neanderthals,-15000,,bc,NaN,,Historic,
+prehistoric,-10000,0,bc,,Key words,Historic,
 Prehistoric,-10000,0,bc,,Key words,Historic,
-Mamoth,-10000,0,bc,,Key words,Historic,
+mammoth,-10000,0,bc,,Key words,Historic,
+Mammoth,-10000,0,bc,,Key words,Historic,
 pre-historic,-10000,0,bc,,Key words,Historic,
 Jomon,-8000,-30,bc,Japan,Key words,Historic,
 Naqada,-4000,-3000,bc,Middle East,Anicent Culture in Egypt,Historic,https://worldhistoryproject.org/
@@ -88,7 +90,7 @@ Great Wall,-220,-206,bc,China,,Historic,https://worldhistoryproject.org/
 Julius Caeser,-100,-44,bc,Greece,,Historic,https://worldhistoryproject.org/
 Caeser,-100,-44,bc,Greece,,Historic,https://worldhistoryproject.org/
 Mark Antony,-83,-30,bc,Greece,,Historic,https://worldhistoryproject.org/
-Sparticus,-73,-71,BC,Rome,,Historic,
+Spartacus,-73,-71,BC,Rome,,Historic,
 Caesar Augustus,-63,19,bc/ad,Rome,,Historic,
 Cleopatra,-51,-30,bc,Greece,,Historic,https://worldhistoryproject.org/
 Roman Empire,-27,476,bc/ad,Rome,,Historic,
