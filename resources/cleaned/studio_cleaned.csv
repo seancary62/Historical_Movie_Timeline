@@ -7,11 +7,22 @@ studio_id,studio_name,origin_country,movie_id
 111485.0,Royal Bank of Canada,,58441
 16914.0,Famous Players Limited,,58441
 25.0,20th Century Fox,US,58441
+3637.0,Burnt Orange Productions,,58441
+347.0,Centropolis Entertainment,,58441
+923.0,Legendary Pictures,US,58441
+10884.0,The Department of Trade and Industry of South Africa,,58441
+9137.0,Moonlighting Films,ZA,58441
+174.0,Warner Bros. Pictures,US,58441
+17009.0,Universal 1440 Entertainment,US,58441
+11462.0,Alphaville Films,,58441
+19643.0,"Sommers Company, The",,58441
+11581.0,Misher Films,US,58441
+19865.0,A Grand Elephant,,58441
 25.0,20th Century Fox,US,58441
 36913.0,Max Film,,58441
-95315.0,Uneurop Film,,58441
 15921.0,Josef Shaftel Productions,US,58441
 35746.0,La Société des Films Sirius,FR,58441
+95315.0,Uneurop Film,,58441
 4.0,Paramount,US,58441
 12275.0,Motion Picture Associates,,58441
 174.0,Warner Bros. Pictures,US,58441
@@ -27,10 +38,9 @@ studio_id,studio_name,origin_country,movie_id
 6854.0,Benetone Films,TH,58441
 1311.0,The Asylum,US,58441
 1829.0,"Zespól Filmowy ""Kadr""",PL,58441
-125051.0,Kultur,,58441
 4.0,Paramount,US,58441
 11788.0,Compagnie Industrielle et Commerciale Cinématographique (CICC),FR,58441
-4827.0,Panda Societa per L'Industria Cinematografica,,58441
+4827.0,Panda Societa per L'Industria Cinematografica,IT,58441
 12692.0,Gallus Films,,58441
 8950.0,Dubrava Film,HR,58441
 25.0,20th Century Fox,US,58441
@@ -53,12 +63,17 @@ studio_id,studio_name,origin_country,movie_id
 114951.0,European Union,,58441
 14016.0,Ministero per i Beni e le Attività Culturali,IT,58441
 1583.0,RAI,IT,58441
+4.0,Paramount,US,58441
+641.0,Titanus,IT,58441
+9290.0,Capital Films,,58441
 18925.0,Compagnie Internationale de Productions Cinématographiques (CIPRA),,58441
 73426.0,Finanziaria Cinematografica Italiana (FICIT),,58441
 8950.0,Dubrava Film,HR,58441
 8658.0,Rialto Films,,58441
 44715.0,Panthéon Productions,,58441
 5.0,Columbia Pictures,US,58441
+3920.0,Leone Film,,58441
+9266.0,American International Pictures,US,58441
 74560.0,Films Internazionali Artistici (FIA) / Gladiator Film,,58441
 74561.0,Compagnia Internazionale Realizzazioni Artistiche Cinematografiche (CIRAC),,58441
 1042.0,Cinecittà,IT,58441
@@ -79,35 +94,28 @@ studio_id,studio_name,origin_country,movie_id
 10104.0,New Regency Pictures,US,58441
 508.0,Regency Enterprises,US,58441
 19248.0,3 in the Box,,58441
-6427.0,Pure Flix Entertainment,US,58441
-181.0,Channel Four Films,GB,58441
-3391.0,ORF,AT,58441
-30983.0,Agav Films,,58441
-53232.0,Interkerkelijke Omroep Nederland (IKON),,58441
-89866.0,United Studios,,58441
 923.0,Legendary Pictures,US,58441
 2994.0,Hollywood Gang Productions,US,58441
 2995.0,Atmosphere Entertainment MM,US,58441
 7636.0,Nimar Studios,BG,58441
 174.0,Warner Bros. Pictures,US,58441
 9995.0,Cruel & Unusual Films,US,58441
+6427.0,Pure Flix Entertainment,US,58441
 12240.0,Galatea Film,IT,58441
 641.0,Titanus,IT,58441
 25.0,20th Century Fox,US,58441
 3957.0,Gener8Xion Entertainment,,58441
 3324.0,BBC,GB,58441
 4245.0,Time-Life Television Productions,US,58441
-22680.0,A. Llorens Olivé Producciones Cinematográficas S.A.,,58441
-22681.0,Fair Play Produccions S.A.,,58441
 8438.0,Art Films,GR,58441
 11244.0,France 3,FR,58441
 16366.0,La Sept Cinéma,FR,58441
 16026.0,FIT Productions,,58441
 6126.0,Gruppo Bema,,58441
+3324.0,BBC,GB,58441
 22820.0,Rossen Films,,58441
 2101.0,C.B. Films S.A.,,58441
 60.0,United Artists,US,58441
-3324.0,BBC,GB,58441
 4745.0,Produzioni Atlas Consorziate,IT,58441
 8015.0,Procusa,ES,58441
 32276.0,Comptoir Français de Productions Cinématographiques (CFPC),FR,58441
@@ -121,29 +129,30 @@ studio_id,studio_name,origin_country,movie_id
 8023.0,Produzione Gallone,,58441
 1679.0,Lux Film,IT,58441
 12243.0,Lux Compagnie Cinématographique de France,FR,58441
+611.0,Bryna Productions,US,58441
 19589.0,Atlantica Cinematografica Produzione Films,IT,58441
 641.0,Titanus,IT,58441
 21.0,Metro-Goldwyn-Mayer,US,58441
 14028.0,Gabriel Pascal Productions,GB,58441
 14029.0,Independent Producers,,58441
+61794.0,C.F.P.C.,,58441
+6397.0,Filmes Cinematografica,IT,58441
 1978.0,Global Pictures,,58441
 15346.0,Boxoffice International Pictures (BIP),,58441
 4645.0,2T Produzione Film,,58441
 32209.0,Naja Films,,58441
-61794.0,C.F.P.C.,,58441
-6397.0,Filmes Cinematografica,IT,58441
 67511.0,National Theatre Live,GB,58441
 16355.0,National Theatre,GB,58441
 156155.0,Bridge Theatre,GB,58441
 15433.0,Orange Studio,FR,58441
 99596.0,paiva films,,58441
 137850.0,Centaure,,58441
+10329.0,Anglo-Amalgamated Film Distributors,,58441
+67511.0,National Theatre Live,GB,58441
+16355.0,National Theatre,GB,58441
 11451.0,MCL Films S.A.,,58441
 11452.0,Walwa Films S.A.,,58441
 25.0,20th Century Fox,US,58441
-67511.0,National Theatre Live,GB,58441
-16355.0,National Theatre,GB,58441
-10329.0,Anglo-Amalgamated Film Distributors,,58441
 5.0,Columbia Pictures,US,58441
 121016.0,Sam Katzman Productions,,58441
 5940.0,Avala Film,RS,58441
