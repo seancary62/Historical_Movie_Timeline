@@ -1,92 +1,92 @@
 name,director_id,gender,director_popularity,movie_id
-Jean-Jacques Annaud,2352.0,2.0,1.4,62204
-Richard A. Colla,40391.0,2.0,1.62,338039
-Adam Rifkin,50583.0,2.0,0.98,14641
-Roland Emmerich,6046.0,2.0,2.482,7840
-Roel Reiné,97555.0,2.0,0.92,78049
-Michael Curtiz,4109.0,2.0,1.344,24973
-Fernando Cerchio,227773.0,2.0,1.22,77971
+Jean-Jacques Annaud,2352.0,2.0,1.62,62204
+Richard A. Colla,40391.0,2.0,0.972,338039
+Adam Rifkin,50583.0,2.0,1.094,14641
+Roland Emmerich,6046.0,2.0,3.475,7840
+Roel Reiné,97555.0,2.0,1.4,78049
+Michael Curtiz,4109.0,2.0,0.806,24973
+Fernando Cerchio,227773.0,2.0,1.566,77971
 Jonathan Miller,1246494.0,2.0,0.6,119913
-Roger Young,23946.0,2.0,1.094,2719
-Mihalis Kakogiannis,65843.0,2.0,2.188,47446
-Giorgio Ferroni,33724.0,2.0,0.6,211139
-Marino Girolami,38585.0,2.0,0.84,81409
-Cecil B. DeMille,8636.0,2.0,2.165,6844
-Sergio Véjar,956123.0,2.0,0.828,533220
-Wolfgang Petersen,5231.0,2.0,6.5,652
-Alexandre Avancini,1548846.0,2.0,0.6,372519
+Roger Young,23946.0,2.0,1.532,2719
+Mihalis Kakogiannis,65843.0,2.0,1.313,47446
+Giorgio Ferroni,33724.0,2.0,0.98,211139
+Marino Girolami,38585.0,2.0,0.652,81409
+Cecil B. DeMille,8636.0,2.0,1.299,6844
+Sergio Véjar,956123.0,2.0,0.6,533220
+Wolfgang Petersen,5231.0,2.0,4.75,652
+Alexandre Avancini,1548846.0,2.0,1.38,372519
 Tekin Girgin,1681942.0,0.0,0.6,493416
-Jerzy Kawalerowicz,40615.0,2.0,1.166,5040
-Cecil B. DeMille,8636.0,2.0,2.165,29993
+Jerzy Kawalerowicz,40615.0,2.0,1.15,5040
+Cecil B. DeMille,8636.0,2.0,1.299,29993
 Carlo Campogalliani,1060712.0,2.0,0.6,206004
-Henry King,37362.0,2.0,0.6,42567
-Roger Young,23946.0,2.0,1.094,58430
-King Vidor,29962.0,2.0,3.835,29996
+Henry King,37362.0,2.0,0.98,42567
+Roger Young,23946.0,2.0,1.532,58430
+King Vidor,29962.0,2.0,3.151,29996
 Shahriar Bahrani,1134653.0,2.0,0.6,153779
 Primo Zeglio,231978.0,0.0,0.6,60915
-Alberto Gout,941090.0,2.0,0.6,366585
+Alberto Gout,941090.0,2.0,0.98,366585
 Matteo Rovere,1108174.0,2.0,0.6,565179
-Sergio Corbucci,49450.0,2.0,1.4,96786
-Pier Francesco Pingitore,1074446.0,2.0,0.6,412225
-Mario Castellacci,1282276.0,2.0,1.128,412225
-Richard Pottier,543939.0,2.0,0.98,138519
-Carlo Ludovico Bragaglia,226428.0,2.0,0.668,223168
-William Castle,12011.0,2.0,0.6,350806
-Michele Lupo,33806.0,2.0,1.052,150912
-Siro Marcellini,1120148.0,0.0,0.84,330390
-Vittorio Cottafavi,128238.0,2.0,0.98,164302
-Carlo Ludovico Bragaglia,226428.0,2.0,0.668,164302
-Jacques Tourneur,10146.0,2.0,1.529,18696
+Sergio Corbucci,49450.0,2.0,0.84,96786
+Pier Francesco Pingitore,1074446.0,2.0,0.98,412225
+Mario Castellacci,1282276.0,2.0,0.677,412225
+Richard Pottier,543939.0,2.0,0.6,138519
+Carlo Ludovico Bragaglia,226428.0,2.0,0.6,223168
+William Castle,12011.0,2.0,1.4,350806
+Michele Lupo,33806.0,2.0,0.716,150912
+Siro Marcellini,1120148.0,0.0,0.6,330390
+Vittorio Cottafavi,128238.0,2.0,0.6,164302
+Carlo Ludovico Bragaglia,226428.0,2.0,0.6,164302
+Jacques Tourneur,10146.0,2.0,1.259,18696
 Bruno Vailati,99526.0,0.0,0.6,18696
-Rudolph Maté,11593.0,2.0,0.6,19972
-Zack Snyder,15217.0,2.0,7.265,1271
-Jason Friedberg,35694.0,2.0,0.84,7278
-Aaron Seltzer,35734.0,2.0,0.98,7278
-Noam Murro,78914.0,0.0,0.6,53182
-David A.R. White,116431.0,2.0,1.27,199153
-Raffaele Mertes,23951.0,2.0,0.98,2700
-Raoul Walsh,8823.0,2.0,1.4,168408
-Mario Bava,25826.0,2.0,1.463,168408
-Michael O. Sajbel,87178.0,2.0,1.174,15005
+Rudolph Maté,11593.0,2.0,1.38,19972
+Zack Snyder,15217.0,2.0,6.98,1271
+Jason Friedberg,35694.0,2.0,0.652,7278
+Aaron Seltzer,35734.0,2.0,0.694,7278
+Noam Murro,78914.0,0.0,0.98,53182
+David A.R. White,116431.0,2.0,0.781,199153
+Raffaele Mertes,23951.0,2.0,0.6,2700
+Raoul Walsh,8823.0,2.0,0.84,168408
+Mario Bava,25826.0,2.0,1.239,168408
+Michael O. Sajbel,87178.0,2.0,0.752,15005
 David Hugh Jones,78514.0,2.0,0.6,119925
 George Zervoulakos,1119957.0,2.0,0.6,286405
-Errikos Thalassinos,1330452.0,2.0,0.6,178184
-George Schaefer,11035.0,2.0,0.98,383695
-Roberto Rossellini,4410.0,2.0,2.8,74778
-Marco Ferreri,34264.0,2.0,1.436,138797
-Rudolph Cartier,97240.0,2.0,0.61,458191
-Robert Rossen,14875.0,2.0,0.659,42668
+Errikos Thalassinos,1330452.0,2.0,0.98,178184
+George Schaefer,11035.0,2.0,1.4,383695
+Roberto Rossellini,4410.0,2.0,3.64,74778
+Marco Ferreri,34264.0,2.0,2.01,138797
+Rudolph Cartier,97240.0,2.0,0.983,458191
+Robert Rossen,14875.0,2.0,0.998,42668
 Sergio Grieco,32495.0,2.0,0.6,228867
-Sergio Leone,4385.0,2.0,5.188,43020
-Shigeo Tanaka,228728.0,2.0,1.4,68906
-George Sidney,21506.0,2.0,0.694,113743
-Edgar G. Ulmer,5030.0,2.0,1.128,169818
-Carlo Ludovico Bragaglia,226428.0,2.0,0.668,169818
-Luigi Magni,70562.0,2.0,1.095,273868
+Sergio Leone,4385.0,2.0,7.156,43020
+Shigeo Tanaka,228728.0,2.0,1.22,68906
+George Sidney,21506.0,2.0,1.008,113743
+Edgar G. Ulmer,5030.0,2.0,0.677,169818
+Carlo Ludovico Bragaglia,226428.0,2.0,0.6,169818
+Luigi Magni,70562.0,2.0,0.728,273868
 Gianfranco Parolini,37742.0,2.0,0.6,330395
-Carmine Gallone,33464.0,2.0,1.4,207234
+Carmine Gallone,33464.0,2.0,0.84,207234
 Sergio Grieco,32495.0,2.0,0.6,205031
-Stanley Kubrick,240.0,2.0,3.575,967
+Stanley Kubrick,240.0,2.0,5.005,967
 Sergio Grieco,32495.0,2.0,0.6,284016
-Franco Prosperi,99437.0,2.0,0.84,284016
-Sergio Corbucci,49450.0,2.0,1.4,208835
+Franco Prosperi,99437.0,2.0,1.052,284016
+Sergio Corbucci,49450.0,2.0,0.84,208835
 Gabriel Pascal,101373.0,0.0,0.6,31561
-Viktor Tourjansky,52594.0,2.0,0.608,330627
+Viktor Tourjansky,52594.0,2.0,0.6,330627
 Piero Pierotti,269201.0,0.0,0.6,330627
-Peter Perry Jr.,102976.0,2.0,0.98,112424
+Peter Perry Jr.,102976.0,2.0,0.6,112424
 Rino Di Silvestro,105331.0,0.0,0.6,326088
 Tony Grech-Smith,3131424.0,0.0,0.6,465616
-Kheiron,1333461.0,2.0,0.6,613370
-Gerald Thomas,40940.0,2.0,0.84,5066
-Simon Godwin,1479313.0,2.0,0.6,533575
-Joseph L. Mankiewicz,10601.0,2.0,0.642,8095
-William Castle,12011.0,2.0,0.6,114771
-Fernando Cerchio,227773.0,2.0,1.22,81908
-Ferdinando Baldi,41159.0,2.0,1.38,270673
+Kheiron,1333461.0,2.0,0.98,613370
+Gerald Thomas,40940.0,2.0,1.4,5066
+Simon Godwin,1479313.0,2.0,0.98,533575
+Joseph L. Mankiewicz,10601.0,2.0,1.393,8095
+William Castle,12011.0,2.0,1.4,114771
+Fernando Cerchio,227773.0,2.0,1.566,81908
+Ferdinando Baldi,41159.0,2.0,1.214,270673
 Jonathan Miller,1246494.0,2.0,0.6,106385
-Vittorio Cottafavi,128238.0,2.0,0.98,168479
-Jean Yanne,24381.0,2.0,0.84,49398
+Vittorio Cottafavi,128238.0,2.0,0.6,168479
+Jean Yanne,24381.0,2.0,1.052,49398
 Shahriar Bahrani,1134653.0,2.0,0.6,321637
-Roger Young,23946.0,2.0,1.094,58933
-Raffaele Mertes,23951.0,2.0,0.98,58441
+Roger Young,23946.0,2.0,1.532,58933
+Raffaele Mertes,23951.0,2.0,0.6,58441
 Elisabetta Marchetti,27435.0,1.0,0.6,58441
