@@ -1,5 +1,5 @@
 # Ultimate_Movie_Lists
-Personal project to explore and categorize movies in different ways.
+Personal project to explore and categorize movies in different ways. This is test.
 
 # Getting Started
 After some initial exploration, I've found a few discoveries that might be useful. I will be reusing some of code from my final team project for the UNCC Charlotte Data Viz Bootcamp. My team and I found a movie data base online with a very workable API. My first task was to create a list of historic events, people, and icons that would be used to sort through a list of movies. Dates were added as well to make it easier to add the movies to a timeline. 
