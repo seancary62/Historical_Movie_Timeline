@@ -12,6 +12,9 @@ movie_id,genre
 14641,Romance
 82695,Drama
 338039,History
+338039,Adventure
+14641,Drama
+78049,TV Movie
 14641,Comedy
 78049,Action
 119913,Adventure
@@ -104,3 +107,6 @@ movie_id,genre
 58933,History
 58933,Drama
 58441,History
+135073,Romance
+58441,Drama
+135073,History
