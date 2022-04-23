@@ -11,7 +11,6 @@ The current version has over 624 movies spanning from the prehistoric to the cla
 - GeoPy library
 - Tableau
 
-<<<<<<< HEAD
 ## Creating the Timeline
 
 Several techniques were employed to create the timeline, but most of the information came from a community built movie and TV database called [TMDB](https://www.themoviedb.org/?language=en-US). 
