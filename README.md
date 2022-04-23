@@ -31,7 +31,7 @@ The lists from wikipedia were loaded into a csv file for easy processing. The Wi
 
 Finally, the Add_Movies notebook was created to append the resulting files when additional movies are found. Several of the movies captured from the first attempt were added to the movie_list file to test it.
 
-# Results
+## Results
 
 There are currently 624 movies on the list, many from studios outside of the US. Movies released as early as 1911 are included. The timeline spands from 80,000 BC to 1,900 AD. 
 
@@ -41,11 +41,11 @@ The timeline can be filtered by directors and actors. Recurrance was a main them
 
 At the moment, the timeline does include movies with mythological settings. This was allowed as a means to show some of the themes of the time. Not all, and in fact many, of the movies are historically inaccurate. Although this timeline will hopefully provide the viewer with some historical context, it alone is not meant to serve as a course in world history.
 
-# Conclusions
+## Conclusions
 
 Aside from creating a movie list for entertainment, I hope that this project can also be useful to educators. Although many of the movies on the timeline take liberties, they serve as an example of how stories and history can be skewed by the people revealing it. In this way, several topics related to history and cinema such as white-washing and oversexualization can be analyzed. By looking at movies from different countries and release years, we can see the ways in which stories and history can be told from different perspectives, as well as the values of the time. 
 
-# Next Steps
+## Next Steps
 
 So far, this has been a one man project. The intention of the author was to learn a little about world history and cinema through the films on the list. That being said, there may be several mistakes that seasoned historians and cinephiles find that may have been missed. There may also be movies that this list does not capture. To make this project as effective as possible, the author will seek additional assistance on social media to idenify errors and improvements. The greatest hope is that others will be inspired by this project and want to build upon it. 
 
