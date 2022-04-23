@@ -32,6 +32,9 @@ Finally, the Add_Movies notebook was created to append the resulting files when 
 
 ## Results
 
+<iframe src="https://public.tableau.com/views/HistoricalMovieTimelineComplete/HistoricalMovieTimeline?:showVizHome=no&:embed=true"
+ width="645" height="955"></iframe>
+
 There are currently 624 movies on the list, many from studios outside of the US. Movies released as early as 1911 are included. The timeline spands from 80,000 BC to 1,900 AD. 
 
 The timeline was created with Tableau and can be adjusted by the user in several ways. The size of the marker is determined by movie popularity on TMDB, while the color is determined by the longtitude of the represented location. 
